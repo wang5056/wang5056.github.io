@@ -9,103 +9,103 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jue Wang's Academic Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Jue Wang"
-description              : &description "PhD Candidate in Mechanical Engineering at Purdue University, specializing in shape-morphing robotics, bio-inspired systems, and machine learning applications."
-url                      : "https://yourusername.github.io" # Replace with your GitHub Pages URL, e.g., https://juewang.github.io
-baseurl                  : "" # Leave empty if hosting at the root of your GitHub Pages site
-repository               : "yourusername/yourusername.github.io" # Replace with your GitHub repository name
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg" # Replace with the filename of your profile picture in /images/
+  avatar           : "profile.png"
   name             : "Jue Wang"
-  pronouns         : "" # Add if applicable, e.g., "he/him"
-  bio              : "Postdoc Associate in Mechanical Engineering at Yale University, focusing on soft robotics, bio-inspired systems, and machine learning for shape-morphing devices."
-  location         : "9 Hillhouse Ave, New Haven, CT, USA" # Based on your affiliation with Purdue University
+  pronouns         : "he/him"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "9 Hillhouse Ave, New Haven, CT, 06510"
   employer         : "Yale University"
-  uri              : "" # Add your personal website if you have one
-  email            : "jue.wang.jw3254@yale.edu" # From your CV
+  uri              : www.wang5056.github.io
+  email            : "jue.wang.jw3254@yale.edu" 
 
   # Academic websites
-  academia         : "" # Add your Academia.edu profile URL if applicable
-  arxiv            : "" # Add your arXiv profile URL if applicable
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JwZ254Ay&cite" # From your CV
-  impactstory      : "" # Add if applicable
-  orcid            : "" # Add your ORCID URL if you have one
-  semantic         : "" # Add your Semantic Scholar URL if applicable
-  pubmed           : "" # Add your PubMed URL if applicable
-  researchgate     : "" # Add your ResearchGate URL if applicable
-  scopus           : "" # Add your Scopus URL if applicable
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=06evsxkAAAAJ&hl=en"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-8743-7517"
+  semantic         : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : "" # Add your Bitbucket username if applicable
-  codepen          : "" # Add your CodePen username if applicable
-  dribbble         : "" # Add your Dribbble username if applicable
-  github           : "" # Add your GitHub username, e.g., "juewang"
-  kaggle           : "" # Add your Kaggle username if applicable
-  stackoverflow    : "" # Add your StackOverflow user ID if applicable
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "wang5056"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : ""
-  bluesky          : "" # Add your Bluesky username if applicable
-  facebook         : ""
-  flickr           : ""
-  foursquare       : ""
-  goodreads        : ""
-  google_plus      : ""
-  keybase          : ""
-  instagram        : ""
-  lastfm           : ""
-  linkedin         : "" # Add your LinkedIn username if applicable
-  mastodon         : ""
-  medium           : ""
-  pinterest        : ""
-  soundcloud       : ""
-  steam            : ""
-  telegram         : ""
-  tumblr           : ""
-  twitter          : "" # Add your Twitter/X username if applicable
-  vine             : ""
-  weibo            : "" # Add your Weibo username if applicable
-  wikipedia        : ""
-  xing             : ""
-  youtube          : ""
-  zhihu            : "" # Add your Zhihu username if applicable
+  artstation       : # Username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  patents:
-    title: 'Patents'
-  journal_articles:
-    title: 'Journal Articles'
-  conference_papers:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
     title: 'Conference Papers'
-  conference_abstracts:
-    title: 'Conference Abstracts'
 
 # Site Settings
-teaser                   : "" # Add a teaser image filename in /images/ if desired
-breadcrumbs              : true # Enable breadcrumbs for better navigation
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true # Show future-dated posts (e.g., upcoming talks)
-read_more                : "disabled"
-talkmap_link             : false
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : false # Disable comments unless you want to enable Disqus or another provider
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : ""
+    shortname            :
   discourse:
-    server               : ""
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                : ""
-    num_posts            : 5
-    colorscheme          : "light"
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "main" # Use "main" instead of "gh-pages" for GitHub Pages
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -118,38 +118,42 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false
-  path                   : ""
+  hide                   : false     # change to true to hide the RSS feed in the footer
+  path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
-google_site_verification : ""
-bing_site_verification   : ""
-alexa_site_verification  : ""
-yandex_site_verification : ""
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
 
 # Social Sharing
 twitter:
-  username               : *twitter
+  username               : &twitter
 facebook:
-  username               : ""
-  app_id                 : ""
-  publisher              : ""
-og_image                 : "" # Add a default social media image if desired
-og_description           : "" # Add a default social media description if desired
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person"
-  name                   : "Jue Wang"
-  links: # Add links to your social media profiles
-    - "https://scholar.google.com/citations?hl=en&user=JwZ254Ay&cite" # Google Scholar
-    # Add other links (e.g., LinkedIn, GitHub) if applicable
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
-  provider               : "false" # Enable Google Analytics if desired
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : ""
+    tracking_id          :
+
 
 # Reading Files
 include:
@@ -189,12 +193,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
@@ -206,6 +212,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
 
 # These settings control the types of collections used by the template
 collections:
@@ -221,9 +228,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  projects: # Added for academic projects
-    output: true
-    permalink: /:collection/:path/
+
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -280,24 +285,20 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Etc/UTC
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
@@ -317,15 +318,38 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+
 # Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
 
 # HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

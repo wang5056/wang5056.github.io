@@ -1,62 +1,69 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jue Wang",
+    "email": "jwz2544@yale.edu",
+    "phone": "+1 (667) 650-175",
+    "website": "https://yourusername.github.io",
+    "summary": "PhD candidate in Mechanical Engineering with expertise in soft robotics, machine learning, and bio-inspired systems. Extensive research experience in shape-morphing robotics and digital twin systems, with multiple patents and high-impact publications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Jue Wang",
+        "url": "https://scholar.google.com/citations?hl=en&user=JwZ254Ay&cite"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Shanghai Jiao Tong University-Fraunhofer Smart Manufacturing Project Center",
+      "position": "Project Leader",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "2018-08-01",
+      "summary": "Developed a digital twin system for robot arms, mobile robots, and FESTO assembly line using HoloLens. Created a myoelectricity control system for UR robot arm. Designed a flexible bionic gripper and multi-robot assembly unit. Participated in CPS system design for FESTO assembly line."
+    },
+    {
+      "company": "Shanghai Platform of Smart Manufacturing",
+      "position": "Independent Project",
+      "website": "",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-01",
+      "summary": "Proposed an active and passive compliance control method with non-contact coil combination. Developed an electromagnetic force control device with variable stiffness for robot arm defect grinding."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Purdue University",
+      "area": "Mechanical Engineering",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "",
       "gpa": null,
-      "courses": []
+      "courses": ["Advisor: Professor Alex Chortos"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Shanghai Jiao Tong University, Shanghai, China",
+      "area": "Mechanical Engineering",
+      "studyType": "MS",
+      "startDate": "2017",
+      "endDate": "2020",
+      "gpa": "3.4/4.0, #9/66 Comprehensive ranking",
+      "courses": ["Advisors: Professor Hao Wang & Guang Chen"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Dalian University of Technology, Dalian, China",
+      "area": "Mechanical Engineering",
+      "studyType": "BS",
+      "startDate": "2013",
+      "endDate": "2017",
+      "gpa": "4.0/4.0, #1/240 Major ranking",
       "courses": []
     }
   ],
@@ -66,87 +73,392 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "High-Performance Locomotion in a Hybrid Robotic Turtle Based on Reinforcement Learning and Simi-real",
+      "publisher": "Science Robotics",
+      "releaseDate": "",
+      "website": "",
+      "summary": "First author: Jue Wang, with Mingsong Jiang, Luis Ramirez, Rebecca Kramer-Bottiglio. Under Review."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Hybrid 3D Printing of Bio-Inspired Artificial Slowly Adapting Type II Afferents",
+      "publisher": "Nature Communication",
+      "releaseDate": "",
+      "website": "",
+      "summary": "First author: Jue Wang, with Michael Sotzing, Alex Chortos. Under Review."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Fast Fabrication of Long Tip Coreshell Nozzle for Bio-printing",
+      "publisher": "Nature Communication",
+      "releaseDate": "",
+      "website": "",
+      "summary": "First author: Jue Wang, with Zewu Ma, Renkun Wang, Jeonghong Lee, Alex Chortos. Under Review."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Passively Addressed Robotic Morphing Surface (PARMS) Based on Machine Learning",
+      "publisher": "Science Advances",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "First author: Jue Wang, with Michael Sotzing, Alex Chortos. Vol. 9, p.eadg8019, IF=13.7."
+    },
+    {
+      "name": "Image Regression-Based Machine Learning for Strain Field Customization in Bioreactor with Dielectric Elastomer Actuators Array",
+      "publisher": "Cyborg and Bionic Systems",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "First author: Jue Wang, with Dhirodattto Sarkar, Mohan Atulya, Mina Lee, Zeyu Ma, Alex Chortos. Vol. 9, p.0155, IF=10.7."
+    },
+    {
+      "name": "Harnessing Deep Learning of Point Clouds for Morphology Mimicking of Universal 3D Shape Morphing Robots",
+      "publisher": "Advanced Intelligent Systems",
+      "releaseDate": "",
+      "website": "",
+      "summary": "First author: Jue Wang, with Dhirodattto Sarkar, Jiqiu Suo, Alex Chortos. Accepted."
+    },
+    {
+      "name": "Control Strategies for Soft Robot Systems",
+      "publisher": "Advanced Intelligent Systems",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": "First author: Jue Wang, with Alex Chortos. Vol. 4, No. 5.1201056."
+    },
+    {
+      "name": "Fully Controllable and Continuous Programmable Surface Based on Machine Learning",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": "First author: Jue Wang, with Jiqiu Suo, Alex Chortos. Vol. 7, No. 1, pp.545-956."
+    },
+    {
+      "name": "Parametric Non-Euclidean Cell Switching Device With Live-Cell Imaging",
+      "publisher": "IEEE Transactions on Biomedical Engineering",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "First author: Jue Wang, with Aritra Chatterjee, Clarisse M. Zigan, Maya Alboon, Deva D. Chan, Alex Chortos. Vol. 71, No. 3, pp.920-830, IF=4.8."
+    },
+    {
+      "name": "Wireless Multiplexing Control Based on Magnetic Coupling Resonance and its Applications in Robot",
+      "publisher": "Journal of Mechanical and Robotics-Transactions of the ASME",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": "First author: Jue Wang, with Genliang Chen, Zhuang Zhang, Hao Wang. Vol. 13, pp.1-15, IF=2.4."
+    },
+    {
+      "name": "Novel On-Machine Measurement System and Method for Flatness of Large Annular Plane",
+      "publisher": "Measurement Science and Technology",
+      "releaseDate": "2019",
+      "website": "",
+      "summary": "First author: Jue Wang, with Qingchao Sun, Bo Yuan. Vol. 31, p.015004, IF=2.4."
+    },
+    {
+      "name": "Crosstalk Analysis in Passively Addressed Soft and Resistive Heating Arrays",
+      "publisher": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Corresponding author: Dhirodattto Sarkar, with Jue Wang, Alex Chortos. Vol. 3, pp.353-365, IF=1.9."
+    },
+    {
+      "name": "3D Printing in Biofabrication: From Surface Structures to Biological Functions",
+      "publisher": "Chemical Engineering Journal",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Second author: Zeyu Ma, with Jue Wang, Liguo Qin, Alex Chortos. p.139477, IF=13.2."
+    },
+    {
+      "name": "Bioinspired Rigid-Soft Hybrid Organic Actuator with Controllable Versatile Motion and Variable Stiffness",
+      "publisher": "IEEE Transactions on Robotics",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Co-author: Zhuang Zhang, with Genliang Chen, Jue Wang, Yuanhao Xun, Hao Wang, Jorge Angeles. Vol. 39, No. 6, pp.4780-4784, IF=9.9."
+    },
+    {
+      "name": "Wireless Power & SIMO Control Based on Magnetic Coupling Resonance Using in Parallel Robot",
+      "publisher": "ASME IDETC/CIE",
+      "releaseDate": "2019",
+      "website": "",
+      "summary": "First author: Jue Wang, with Genliang Chen, Hao Wang. DOI: 10.1115/DETC201997174."
+    },
+    {
+      "name": "Design and Finite Element Analysis of a Programmable Surface Based on Ionic Electro-Active Actuator",
+      "publisher": "Machine Design & Research",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "Co-author: Aaron Fu, with Congcong Du, Wen Zhang, Genliang Chen, Jue Wang, Hao Wang. Vol. 35, No. 3, pp.44-49."
+    },
+    {
+      "name": "System for Shape Error In-Situ Measurement of Large-Scale Torus",
+      "publisher": "U.S. Patent",
+      "releaseDate": "2021-04-01",
+      "website": "",
+      "summary": "No. 10,976,146."
+    },
+    {
+      "name": "Method for Shape Error In-Situ Measurement of Toruses",
+      "publisher": "U.S. Patent",
+      "releaseDate": "2021-04-01",
+      "website": "",
+      "summary": "No. 16/321,991."
+    },
+    {
+      "name": "Single-Input-Multi-Output Control System and Method Based on Magnetic Coupling Resonance",
+      "publisher": "CHN Patent",
+      "releaseDate": "2018-11-01",
+      "website": "",
+      "summary": "No. ZL 201811176743.9."
+    },
+    {
+      "name": "Large Span Variable Stiffness Drive Unit",
+      "publisher": "CHN Patent",
+      "releaseDate": "2018-11-01",
+      "website": "",
+      "summary": "No. ZL 20181113659.5."
+    },
+    {
+      "name": "Flexible Bionic Gripper",
+      "publisher": "CHN Patent",
+      "releaseDate": "2018-10-01",
+      "website": "",
+      "summary": "No. ZL 201810741426.0."
+    },
+    {
+      "name": "Large Span Rope Driven Measuring Robot",
+      "publisher": "CHN Patent",
+      "releaseDate": "2018-10-01",
+      "website": "",
+      "summary": "No. ZL 201810741423.7."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "High-Performance Locomotion in a Hybrid Robotic Turtle Based on Reinforcement Learning and SimReal",
+      "event": "IEEE International Conference on Robotics & Automation (ICRA) Workshop",
+      "date": "2023",
+      "location": "",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Programmable Shape Morphing Based on Machine Learning",
+      "event": "IEEE-RAS International Conference on Soft Robotics (Robosoft) Workshop",
+      "date": "2024",
+      "location": "",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Programmable Shape Morphing Devices",
+      "event": "Quality Physics at Harvard University",
+      "date": "2024",
+      "location": "Cambridge, MA, USA",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Programmable Shape Morphing Devices",
+      "event": "Guest Presentation at Robert Wood Lab at Harvard University",
+      "date": "2024",
+      "location": "Cambridge, MA, USA",
+      "description": ""
+    },
+    {
+      "name": "Machine Learning in 3D Shape Morphing",
+      "event": "Fast Machine Learning for Science Conference",
+      "date": "2024",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Bio-Inspired Rigid-Soft Hybrid Organic Actuator with Controllable Versatile Motion and Variable Stiffness",
+      "event": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "date": "2024",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Design of Fully Controllable and Continuous Programmable Surface Based on Machine Learning",
+      "event": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "date": "2023",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "A Pneumatically Controlled Device for Uniaxial and Biaxial Cell Stretching",
+      "event": "Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C)",
+      "date": "2023",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Wireless Power & SIMO Control Based on Magnetic Coupling Resonance Using in Parallel Robot",
+      "event": "ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)",
+      "date": "2019",
+      "location": "",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Measurement and Control Systems II",
+      "institution": "Purdue University",
+      "date": "2020, 2024",
+      "role": "Graduate Instructor",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Dynamics II",
+      "institution": "Purdue University",
+      "date": "2020",
+      "role": "Graduate Teaching Assistant",
+      "description": ""
+    },
+    {
+      "course": "Robotics",
+      "institution": "Shanghai Jiao Tong University",
+      "date": "2018",
+      "role": "Graduate Teaching Assistant",
+      "description": ""
+    },
+    {
+      "course": "Senior Design",
+      "institution": "Dalian University of Technology",
+      "date": "2017",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
+  "portfolio": [],
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Nomination of Schmidt Science Fellows",
+      "date": "2024",
+      "awarder": "Purdue University",
+      "summary": "$220,000 for 2 years, 4 nominees from Purdue"
+    },
+    {
+      "title": "Purdue Outstanding Research Award",
+      "date": "2024",
+      "awarder": "Purdue University",
+      "summary": "$2000, 1 per department at Purdue"
+    },
+    {
+      "title": "Purdue Award to Recognize, Reward and Retain Top Talent",
+      "date": "2024",
+      "awarder": "Purdue University",
+      "summary": "$1500, 20 per department at Purdue"
+    },
+    {
+      "title": "Wiley Top Cited and Downloaded Paper",
+      "date": "2023",
+      "awarder": "Wiley",
+      "summary": "Control strategies for soft robot systems, Interviewed by Wiley"
+    },
+    {
+      "title": "IEEE Transactions on Biomedical Engineering Featured Article",
+      "date": "2023",
+      "awarder": "IEEE",
+      "summary": "Pneumatic Non-Equibiaxial Cell Stretching Device With Live-Cell Imaging"
+    },
+    {
+      "title": "Toyota Boshoku Scholarship",
+      "date": "2019",
+      "awarder": "Toyota Boshoku",
+      "summary": "$1500"
+    },
+    {
+      "title": "National Graduation Project Competition, First Award",
+      "date": "2017",
+      "awarder": "",
+      "summary": "Rank 5/166"
+    },
+    {
+      "title": "Special Chinese National Scholarship",
+      "date": "2015",
+      "awarder": "",
+      "summary": "Top 1% in National Scholarship, Reported in People's Daily"
+    },
+    {
+      "title": "Chinese National Scholarship",
+      "date": "2014-2016",
+      "awarder": "",
+      "summary": "$2000"
+    },
+    {
+      "title": "11th National University Students Mechanics Competition, First Award",
+      "date": "2014",
+      "awarder": "",
+      "summary": "Rank 1/4000"
+    },
+    {
+      "title": "Baogang Outstanding Student Scholarship",
+      "date": "2014",
+      "awarder": "",
+      "summary": "$3000"
+    }
+  ],
+  "service": [
+    {
+      "role": "Organizer of IROS 2025 Workshop",
+      "date": "2025",
+      "organization": "IROS",
+      "summary": "SMORE Shape-Morphing Robotics via Embodied Sensing and Mechanisms"
+    },
+    {
+      "role": "Organizer of Robosoft 2024 Workshop",
+      "date": "2024",
+      "organization": "Robosoft",
+      "summary": "Shape Morphing Robots: From Pattern-to-Pattern to Programmable Shape Morphing"
+    },
+    {
+      "role": "Mentor for Summer Undergraduate Research Program",
+      "date": "2023",
+      "organization": "Purdue University",
+      "summary": "Mentored undergraduates on thermal passive matrix addressing for shape morphing device"
+    },
+    {
+      "role": "Mentor for Undergraduate Research Credits",
+      "date": "2021-2024",
+      "organization": "Purdue University",
+      "summary": "Mentored 8 students for 24 credits"
+    },
+    {
+      "role": "Tutor of Labview Club",
+      "date": "2017-2019",
+      "organization": "Shanghai Jiao Tong University",
+      "summary": "Tutored weekly Labview course for undergraduates"
+    },
+    {
+      "role": "Mentor of Robomaster Club",
+      "date": "2017-2018",
+      "organization": "Shanghai Jiao Tong University",
+      "summary": "Mentored undergraduates for Robomaster competitions"
+    },
+    {
+      "role": "Tutor/Mentor in ME Innovation Center",
+      "date": "2015-2017",
+      "organization": "Dalian University of Technology",
+      "summary": "Tutored and mentored undergraduates for competitions"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Autonomous Mobile Robot",
+      "date": "2022-01-01 - 2022-05-01",
+      "supervisor": "Prof. Nina Mahmoudian",
+      "summary": "Developed map reconstruction and route planning using A* algorithm under ROS."
+    },
+    {
+      "name": "Precision Parts Intelligent Assembly System",
+      "date": "2018-09-01 - 2018-11-01",
+      "supervisor": "Prof. Guoliang Chen",
+      "summary": "Designed a human-robot assembly system based on machine vision and automatic screw driver."
+    },
+    {
+      "name": "Electric Vehicle Battery Automatic Assembly Production Line",
+      "date": "2018-09-01 - 2018-10-01",
+      "supervisor": "Prof. Guoliang Chen and Prof. Andrea Matta",
+      "summary": "Created 3D model and simulated automated electric vehicle battery assembly line."
+    },
+    {
+      "name": "Cable Tunnel Inspection Robot",
+      "date": "2015-11-01 - 2016-06-01",
+      "supervisor": "Prof. Zhenyu Wu",
+      "summary": "Designed a mobile robot for autonomous movement in cable tunnels using SLAM and gas detection."
     }
   ]
 }

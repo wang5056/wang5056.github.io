@@ -3,7 +3,7 @@ title: "Wireless Multiplexing Control Based on Magnetic Coupling Resonance and I
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-wireless-multiplexing
-excerpt: 'This paper presents a wireless multiplexing control system based on magnetic coupling resonance, designed for robotic applications, enabling efficient power and signal transmission.'
+# excerpt: 'This paper presents a wireless multiplexing control system based on magnetic coupling resonance, designed for robotic applications, enabling efficient power and signal transmission.'
 date: 2021-01-01
 venue: 'Journal of Mechanical and Robotics-Transactions of the ASME'
 paperurl: 'https://wang5056.github.io/files/Wang et al. - 2021 - Wireless Multiplexing Control Based on Magnetic Coupling Resonance and Its Applications in Robot.pdf'

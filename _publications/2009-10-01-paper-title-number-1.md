@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Performance metrics for shape-morphing devices"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-09-01-performance-metrics-shape-morphing
+excerpt: 'This paper reviews performance metrics for shape-morphing devices, focusing on their design and applications in soft robotics and bio-inspired systems.'
+date: 2024-09-01
+venue: 'Nature Reviews Materials'
+paperurl: 'https://wang5056.github.io/files/Wang and Chortos - 2024 - Performance metrics for shape-morphing devices.pdf'
+bibtexurl: 'https://wang5056.github.io/files/WangPerformance.bib'
+citation: 'Wang, Jue and Chortos, Alex. (2024). "Performance metrics for shape-morphing devices." <i>Nature Reviews Materials</i>, 9(10), 738-751.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

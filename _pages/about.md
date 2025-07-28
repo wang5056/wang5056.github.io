@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Postdoc Associate at Yale University (Rebecca Kramer-Bottiglio)"
+title: "Postdoc Associate at Yale University"
 author_profile: true
 redirect_from: 
   - /about/

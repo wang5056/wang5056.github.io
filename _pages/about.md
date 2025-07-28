@@ -16,13 +16,14 @@ I am currently a Postdoctoral Associate in the Rebecca Kramer-Bottiglio Group at
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; max-width: 1920px; margin: 0 auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif1.gif" alt="Research GIF 1" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif2.gif" alt="Research GIF 2" style="width: 100%; height: auto;">
-    <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif3.gif" alt="Research GIF 3" style="width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif9.gif" alt="Research GIF 9" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif4.gif" alt="Research GIF 4" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif5.gif" alt="Research GIF 5" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif6.gif" alt="Research GIF 6" style="width: 100%; height: auto;">
-    <img src="{{ site.baseurl }}/assets/videos/gif7.gif" alt="Research GIF 7" style="width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif7.gif" alt="Research GIF 7" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif8.gif" alt="Research GIF 8" style="width: 100%; height: auto;">
-    <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif9.gif" alt="Research GIF 9" style="width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif3.gif" alt="Research GIF 3" style="width: 100%; height: auto;">
+    
   </div>
   <!-- <p style="margin-top: 10px;">A collection of GIFs showcasing my researches.</p> -->
 </div>

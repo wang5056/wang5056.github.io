@@ -52,6 +52,14 @@ Conference Abstract
 * Jue Wang, Alex Chortos, Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing, Fast Machine Learning for Science Conference, 2024
 * Jue Wang, Aritra Chatterjee, Clarisse M. Zigan, Alex Chortos, Deva D. Chan, A Pneumatically Controlled Device for Uniaxial and Biaxial Cell Stretching, Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C), 2023
 
+Teaching and Mentoring
+======
+<a href="/teaching/" class="archive__subtitle">Teaching and Mentoring</a>
+
+Academic and Outreach Services
+======
+<a href="/year-archive/" class="archive__subtitle">Academic and Outreach Services</a>
+
 Internship
 ======
 * Aug 2017 - Aug 2018: Project Leader
@@ -141,7 +149,7 @@ status and screw torque are recorded and then uploaded to the CPS system.
 * Sept. 2018 - Oct. 2018: Electric Vehicle Battery Automatic Assembly Production Line
   * Supervisors: Prof. Hao Wang and Prof. Andrea Matta
   * Based on the process of electric vehicle battery assembly, created 3D model and of automated electric vehicle battery assembly line and simulate it in the virtual environment.
-  
+
 * Nov. 2015 - Jun. 2016: Cable Tunnel Inspection Robot
   * Supervisor: Prof. Zhenyu Wu
   * 1. Designed a mobile robot that can autonomously move in a cable tunnel by using slam and detect all kinds of harmful gas.

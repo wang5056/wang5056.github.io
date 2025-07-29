@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, Purdue University, 2020-present
+  * GPA: 3.54/4.0,
   * Advisor: Professor Alex Chortos
 * M.S. in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China, 2017-2020
-  * GPA: 3.4/4.0, #9/66 Comprehensive ranking
+  * GPA: 3.54/4.0, #19/406 Comprehensive ranking including GPA and achievements in research
   * Advisors: Professor Hao Wang & Guang Chen
 * B.S. in Mechanical Engineering, Dalian University of Technology, Dalian, China, 2013-2017
   * GPA: 4.0/4.0, #1/240 Major ranking

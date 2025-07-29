@@ -19,27 +19,62 @@ Education
 * B.S. in Mechanical Engineering, Dalian University of Technology, Dalian, China, 2013-2017
   * GPA: 4.0/4.0, #1/240 Major ranking
 
-Work Experience
+
+Publications
+======
+<a href="/publications/" class="archive__subtitle">Publications</a>
+
+Patents
+======
+* Apr. 2021 
+  * System for shape error in-situ measurement of large-scale torus, U.S. Patent, No. 10976146
+* Apr. 2021 
+  * Method for shape error in-situ measurement of toruses, U.S. Patent, No. 16/321991
+* Nov. 2018 
+  * Single-Input-Multi-Output Control System and Method Based on Magnetic Coupling Resonance, CHN Patent, No. ZL 201811176743.9
+* Nov. 2018 
+  * Large Span Variable Stiffness Drive Unit, CHN Patent, No. ZL 201811131659.5
+* Oct. 2018 
+  * Flexible Bionic Gripper, CHN Patent, No. ZL 201810741426.0
+* Oct. 2018 
+  * Large Span Rope Driven Measuring Robot, CHN Patent, No. ZL 201810741423.7
+
+Selected Awards
+======
+<a href="/portfolio/" class="archive__subtitle">Selected Awards</a>
+
+Invited Talks and Presentations
+======
+<a href="/talks/" class="archive__subtitle">Invited Talks and Presentations</a>
+
+Conference Abstract
+======
+* Jue Wang, Alex Chortos, Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing, Fast Machine Learning for Science Conference, 2024
+* Jue Wang, Aritra Chatterjee, Clarisse M. Zigan, Alex Chortos, Deva D. Chan, A Pneumatically Controlled Device for Uniaxial and Biaxial Cell Stretching, Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C), 2023
+
+Internship
 ======
 * Aug 2017 - Aug 2018: Project Leader
   * Shanghai Jiao Tong University-Fraunhofer Smart Manufacturing Project Center
-  * Duties included: Developed a digital twin system for robot arms, mobile robots, and FESTO assembly line using HoloLens; created a myoelectricity control system for UR robot arm; designed a flexible bionic gripper and multi-robot assembly unit; participated in CPS system design for FESTO assembly line.
+  * 1.Developed a digital twin system for robot arms, mobile robots and FESTO assembly line with Hololens (the MR glass developed by Microsoft). In this system, we collected data from above devices for driving the virtual 3D model in OSG and then displayed in Hololens (by using Unity).
+
+	2.Created the myoelectricity control system for UR robot that can control the robot arm by using the human-being's arm orientation and collected its data to the CPS system for digital twin. Designed a flexible bionic robot hand and a myoelectric signal collector that can use the myoelectric signal to control the grasping function of the robot hand.
+
+	3.Developed a multi-robot assembly unit that two UR robot arms can collaborate to assemble parts: Responsible for the robot arm trajectory planning and designing the collector for CPS system.
+
+	4.Designed a modular product with 24 kinds of topologies according to project’s needs.
+
+	5.Participated in the design of the CPS system. Renovating the FESTO automatic assembly line to assemble the new product I designed and established its connection with CPS systems.
 
 * May 2020 - Aug 2020: Independent Project
   * Shanghai Platform of Smart Manufacturing
-  * Duties included: Proposed an active and passive compliance control method with non-contact coil combination; developed an electromagnetic force control device with variable stiffness for robot arm defect grinding.
+  * 1.Proposed an active and passive compliance control method with non-contact combination of coil and coaxial and developed an electromagnetic force control device with variable stiffness based on the principle of electromagnetic variable stiffness.
 
-Awards
-======
-* 2024: Nomination of Schmidt Science Fellows, Purdue University
-  * $220,000 for 2 years, 4 nominees from Purdue
-* 2024: Purdue Outstanding Research Award, Purdue University
-  * $2000, 1 per department
-* 2024: Purdue Award to Recognize, Reward and Retain Top Talent, Purdue University
-  * $1500, 20 per department
-* 2023: Wiley Top Cited and Downloaded Paper
-  * *Control strategies for soft robot systems*, Interviewed by Wiley
-* 2023: IEEE Transactions on Biomedical Engineering Featured Article
+	2.Applied the device on a robot arm for auto body surface defect grinding.
+
+<!-- 
+
+Featured Article
   * *Pneumatic Non-Equibiaxial Cell Stretching Device With Live-Cell Imaging*
 * 2019: Toyota Boshoku Scholarship
   * $1500
@@ -87,19 +122,27 @@ Service and Leadership
 * 2017-2018: Mentor, Robomaster Club, Shanghai Jiao Tong University
   * Mentored undergraduates for Robomaster competitions
 * 2015-2017: Tutor/Mentor, ME Innovation Center, Dalian University of Technology
-  * Tutored and mentored undergraduates for competitions
+  * Tutored and mentored undergraduates for competitions -->
 
-Projects
+Selected Engineering Projects
 ======
 * Jan 2022 - May 2022: Autonomous Mobile Robot
   * Supervisor: Prof. Nina Mahmoudian
-  * Developed map reconstruction and route planning using A* algorithm under ROS.
-* Sept 2018 - Nov 2018: Precision Parts Intelligent Assembly System
+  * Developed a mobile robot with slam and camera that can achieve map reconstruction by RRT-exploration and route planning by A* algorithm under the ROS.
+
+* Nov. 2018 - Sept. 2019: Precision Parts Intelligent Assembly System
   * Supervisor: Prof. Guoliang Chen
-  * Designed a human-robot assembly system based on machine vision and automatic screw driver.
-* Sept 2018 - Oct 2018: Electric Vehicle Battery Automatic Assembly Production Line
-  * Supervisors: Prof. Guoliang Chen and Prof. Andrea Matta
-  * Created 3D model and simulated automated electric vehicle battery assembly line.
-* Nov 2015 - Jun 2016: Cable Tunnel Inspection Robot
+  * 1. Designed a human-robot assembly system based on the machine vision and automatic screw driver with the
+function of recording its torque and status.
+2. Specific funtion description: The camera guides the robot arm to the target position and then uses the
+automatic screw drvier to complete the screwing. At the same time, the information of component, equipment
+status and screw torque are recorded and then uploaded to the CPS system.
+
+* Sept. 2018 - Oct. 2018: Electric Vehicle Battery Automatic Assembly Production Line
+  * Supervisors: Prof. Hao Wang and Prof. Andrea Matta
+  * Based on the process of electric vehicle battery assembly, created 3D model and of automated electric vehicle battery assembly line and simulate it in the virtual environment.
+  
+* Nov. 2015 - Jun. 2016: Cable Tunnel Inspection Robot
   * Supervisor: Prof. Zhenyu Wu
-  * Designed a mobile robot for autonomous movement in cable tunnels using SLAM and gas detection.
+  * 1. Designed a mobile robot that can autonomously move in a cable tunnel by using slam and detect all kinds of harmful gas.
+  2. The robot has been purchased and utilized by the local government for practical use.

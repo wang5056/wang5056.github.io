@@ -65,21 +65,16 @@ Internship
 ======
 * Aug 2017 - Aug 2018: Project Leader
   * Shanghai Jiao Tong University-Fraunhofer Smart Manufacturing Project Center
-  * 1.Developed a digital twin system for robot arms, mobile robots and FESTO assembly line with Hololens (the MR glass developed by Microsoft). In this system, we collected data from above devices for driving the virtual 3D model in OSG and then displayed in Hololens (by using Unity).
-
-	2.Created the myoelectricity control system for UR robot that can control the robot arm by using the human-being's arm orientation and collected its data to the CPS system for digital twin. Designed a flexible bionic robot hand and a myoelectric signal collector that can use the myoelectric signal to control the grasping function of the robot hand.
-
-	3.Developed a multi-robot assembly unit that two UR robot arms can collaborate to assemble parts: Responsible for the robot arm trajectory planning and designing the collector for CPS system.
-
-	4.Designed a modular product with 24 kinds of topologies according to project’s needs.
-
-	5.Participated in the design of the CPS system. Renovating the FESTO automatic assembly line to assemble the new product I designed and established its connection with CPS systems.
+  * Developed a digital twin system for robot arms, mobile robots and FESTO assembly line with Hololens (the MR glass developed by Microsoft). In this system, we collected data from above devices for driving the virtual 3D model in OSG and then displayed in Hololens (by using Unity).
+	* Created the myoelectricity control system for UR robot that can control the robot arm by using the human-being's arm orientation and collected its data to the CPS system for digital twin. Designed a flexible bionic robot hand and a myoelectric signal collector that can use the myoelectric signal to control the grasping function of the robot hand.
+	* Developed a multi-robot assembly unit that two UR robot arms can collaborate to assemble parts: Responsible for the robot arm trajectory planning and designing the collector for CPS system.
+	* Designed a modular product with 24 kinds of topologies according to project’s needs.
+	* Participated in the design of the CPS system. Renovating the FESTO automatic assembly line to assemble the new product I designed and established its connection with CPS systems.
 
 * May 2020 - Aug 2020: Independent Project
   * Shanghai Platform of Smart Manufacturing
-  * 1.Proposed an active and passive compliance control method with non-contact combination of coil and coaxial and developed an electromagnetic force control device with variable stiffness based on the principle of electromagnetic variable stiffness.
-
-	2.Applied the device on a robot arm for auto body surface defect grinding.
+  * Proposed an active and passive compliance control method with non-contact combination of coil and coaxial and developed an electromagnetic force control device with variable stiffness based on the principle of electromagnetic variable stiffness.
+	* Applied the device on a robot arm for auto body surface defect grinding.
 
 <!-- 
 
@@ -141,9 +136,9 @@ Selected Engineering Projects
 
 * Nov. 2018 - Sept. 2019: Precision Parts Intelligent Assembly System
   * Supervisor: Prof. Guoliang Chen
-  * 1. Designed a human-robot assembly system based on the machine vision and automatic screw driver with the
+  * Designed a human-robot assembly system based on the machine vision and automatic screw driver with the
 function of recording its torque and status.
-2. Specific funtion description: The camera guides the robot arm to the target position and then uses the
+  * Specific funtion description: The camera guides the robot arm to the target position and then uses the
 automatic screw drvier to complete the screwing. At the same time, the information of component, equipment
 status and screw torque are recorded and then uploaded to the CPS system.
 
@@ -153,5 +148,5 @@ status and screw torque are recorded and then uploaded to the CPS system.
 
 * Nov. 2015 - Jun. 2016: Cable Tunnel Inspection Robot
   * Supervisor: Prof. Zhenyu Wu
-  * 1. Designed a mobile robot that can autonomously move in a cable tunnel by using slam and detect all kinds of harmful gas.
-  2. The robot has been purchased and utilized by the local government for practical use.
+  * Designed a mobile robot that can autonomously move in a cable tunnel by using slam and detect all kinds of harmful gas.
+  * The robot has been purchased and utilized by the local government for practical use.

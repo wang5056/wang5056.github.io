@@ -23,6 +23,7 @@ I am currently a Postdoctoral Associate in the Rebecca Kramer-Bottiglio Group at
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif7.gif" alt="Research GIF 7" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif8.gif" alt="Research GIF 8" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif3.gif" alt="Research GIF 3" style="width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/videos/2x_edited.gif" alt="Research GIF 10" style="width: 100%; height: auto;">
     
   </div>
   <!-- <p style="margin-top: 10px;">A collection of GIFs showcasing my researches.</p> -->

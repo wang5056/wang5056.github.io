@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Appointments
+======
+* **Incoming Tenure-track Assistant Professor**, Mechanical and Aerospace Engineering, University of Tennessee, Knoxville, TN, USA, Jan 2027 –
+* **Postdoctoral Associate**, Mechanical Engineering, Princeton University, NJ, USA, 2026–2027
+  * Advisor: Prof. Rebecca Kramer-Bottiglio
+* **Postdoctoral Associate**, Mechanical Engineering & Materials Science, Yale University, CT, USA, 2024–2026
+  * Advisor: Prof. Rebecca Kramer-Bottiglio
+
 Education
 ======
 * Ph.D in Mechanical Engineering, Purdue University, West Lafayette, USA, 2020-2024
@@ -16,9 +24,18 @@ Education
   * Advisor: Prof. Alex Chortos
 * M.S. in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China, 2017-2020
   * GPA: 3.54/4.0, #19/406 Comprehensive ranking including GPA and achievements in research
-  * Advisors: Prof. Hao Wang & Guang Chen
+  * Advisors: Prof. Hao Wang & Genliang Chen
 * B.S. in Mechanical Engineering, Dalian University of Technology, Dalian, China, 2013-2017
   * GPA: 4.0/4.0, #1/240 Major ranking
+
+
+Funding & Grants
+======
+* NSF 2301509 — The Role of Macroscopic Defects on Electromechanical Instability in Elastomer Dielectrics and Strategies for Mitigation, 2021–2024 (Main Proposal Contributor; Project Researcher)
+* NSF 2149946 — Regulation of Hyaluronan Production and Function by Biomechanical Signals, 2021–2024 (Project Researcher)
+* NSF BII 2120200 — Emergent Mechanisms in Biology of Robustness, Integration & Organization (EMBRIO), 2021–2024 (Project Researcher)
+* ONR N00014-24-1-2162 — Toward A Deep Water Amphibious Robotic Turtle, 2024–2025 (Project Researcher)
+* NSF 1954591 — Fabric-Embedded Dynamic Sensing for Adaptive Exoskeleton Assistance, 2024–2025 (Project Researcher)
 
 
 Publications
@@ -57,13 +74,17 @@ Teaching and Mentoring
 ======
 <a href="/teaching/" class="archive__subtitle">Teaching and Mentoring</a>
 
-Academic and Outreach Services
+Academic Service
 ======
-<a href="/year-archive/" class="archive__subtitle">Academic and Outreach Services</a>
+* Organizer, IROS 2026 Workshop — *When Muscles Think: The Embodied Intelligence of Biological and Robotic Actuation*, Sept 2026
+* Organizer, RoboSoft 2026 Workshop — *Adaptive Intelligence in Adaptive Bodies: AI for General Shape-Changing Robots*, Apr 2026
+* Main Organizer, IROS 2025 Workshop — *S'MORE: Shape-Morphing Robotics via Embodied Sensing and Mechanisms*, Oct 2025
+* Main Organizer, RoboSoft 2024 Workshop — *Shape Morphing Robots: From Pattern-to-pattern to Programmable Shape Morphing*, Apr 2024
+* Guest Editor, Special Issue, Journal of Intelligent & Robotic Systems — *Shape-Morphing Robotics via Embodied Sensing and Mechanisms*, 2025–2026
 
 Internship
 ======
-* Aug 2017 - Aug 2018: Project Leader
+* Aug 2017 - Aug 2019: One of Three Project Leaders
   * Shanghai Jiao Tong University-Fraunhofer Smart Manufacturing Project Center
   * Developed a digital twin system for robot arms, mobile robots and FESTO assembly line with Hololens (the MR glass developed by Microsoft). In this system, we collected data from above devices for driving the virtual 3D model in OSG and then displayed in Hololens (by using Unity).
 	* Created the myoelectricity control system for UR robot that can control the robot arm by using the human-being's arm orientation and collected its data to the CPS system for digital twin. Designed a flexible bionic robot hand and a myoelectric signal collector that can use the myoelectric signal to control the grasping function of the robot hand.

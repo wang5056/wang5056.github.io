@@ -27,9 +27,7 @@ My future lab will focus on building intelligent, bio-inspired soft robotic syst
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif7.gif" alt="Research GIF 7" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif8.gif" alt="Research GIF 8" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/Adobe Express - gif3.gif" alt="Research GIF 3" style="width: 100%; height: auto;">
-    <img src="{{ site.baseurl }}/assets/videos/2x_edited.gif" alt="Research GIF 10" style="width: 100%; height: auto;">
     <img src="{{ site.baseurl }}/assets/videos/isuit_2x.gif" alt="Research GIF 11" style="width: 100%; height: auto;">
-    <img src="{{ site.baseurl }}/assets/videos/transition_2x.gif" alt="Research GIF 12" style="width: 100%; height: auto;">
     <video src="{{ site.baseurl }}/assets/videos/deep_tank_swimming_4x.mp4" autoplay loop muted playsinline preload="metadata" aria-label="Soft robot swimming in a deep tank (4x speed)" style="width: 100%; height: auto;"></video>
     <video src="{{ site.baseurl }}/assets/videos/pool_targeting_5x.mp4" autoplay loop muted playsinline preload="metadata" aria-label="Robot swimming to a target in the Yale Tech Tank (5x speed)" style="width: 100%; height: auto;"></video>
     <video src="{{ site.baseurl }}/assets/videos/swimming_simulation_4x.mp4" autoplay loop muted playsinline preload="metadata" aria-label="Simulation of robot swimming with pitch control (4x speed)" style="width: 100%; height: auto;"></video>

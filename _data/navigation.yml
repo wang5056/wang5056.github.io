@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Lab"
+    url: https://wang5056.github.io/jues-lab/
     
   # - title: "CV"
   #   url: /cv-json/

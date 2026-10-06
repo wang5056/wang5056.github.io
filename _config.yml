@@ -28,7 +28,8 @@ author:
   # bio              : "Short biography for the left-hand sidebar"
   location         : "New Haven, CT, USA"
   employer         : "Incoming Asst. Prof. · UT Knoxville"
-  uri              : www.wang5056.github.io
+  uri              : "https://wang5056.github.io"
+  lab              : "https://wang5056.github.io/jues-lab/"
   email            : "jw4556@princeton.edu"
 
   # Academic websites

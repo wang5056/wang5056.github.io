@@ -42,3 +42,5 @@ My future lab ([lab website](https://wang5056.github.io/jues-lab/)) will focus o
   </div>
   <!-- <p style="margin-top: 10px;">A collection of GIFs showcasing my researches.</p> -->
 </div>
+
+{% include news-list.html %}

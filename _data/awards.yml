@@ -1,0 +1,81 @@
+# Awards: the single source for the Awards page (/portfolio/) and for the
+# award items in the News feed at the bottom of the homepage.
+#
+#   title        text shown after "Award:"
+#   time         text shown after "Time:" (free text, e.g. "2026" or "2014-2016")
+#   date         "YYYY-MM-DD", in quotes. Only used to place the award in the News feed.
+#                If only the year is known, write "YYYY-01-01"; News then shows
+#                `time` instead of a month.
+#   description  text shown after "Description:"
+#
+# The Awards page lists them in the order written here, so add new awards at the top.
+
+- title: "NERC Rising Star, Northeast Robotics Colloquium (NERC)"
+  time: "2026"
+  date: "2026-10-03"
+  description: "Selected as a Rising Star at the Northeast Robotics Colloquium (NERC), recognizing outstanding early-career researchers in robotics."
+
+- title: "IEEE-RAS International Conference on Soft Robotics (RoboSoft): Best Extended Abstract Award"
+  time: "2026"
+  date: "2026-04-10"
+  description: "Best Extended Abstract Award at the IEEE-RAS International Conference on Soft Robotics (RoboSoft)."
+
+- title: "Chinese National Scholarship for Outstanding Self-Financed International Students (Category A)"
+  time: "2025"
+  date: "2025-01-01"
+  description: "Prestigious award granted to only 20 self-financed Chinese doctoral students worldwide annually, recognizing exceptional academic and research achievements."
+
+- title: "Nomination of Schmidt Science Fellows, $220,000 for 2 years"
+  time: "2024"
+  date: "2024-01-01"
+  description: "Prestigious nomination providing $220,000 over 2 years; one of 4 nominees selected from Purdue University, recognizing potential for interdisciplinary science leadership."
+
+- title: "Purdue Outstanding Research Award, $2000"
+  time: "2024"
+  date: "2024-01-01"
+  description: "Award recognizing excellence and leadership in research; granted to 1 recipient per department at Purdue University."
+
+- title: "Purdue Award to Recognize, Reward and Retain Top Talent, $1500"
+  time: "2024"
+  date: "2024-01-01"
+  description: "Recognition for exceptional contributions and talent retention; up to 20 awards per department at Purdue University."
+
+- title: "Wiley Top Cited and Downloaded Paper: Control strategies for soft robot systems"
+  time: "2023"
+  date: "2023-01-01"
+  description: "Recognition for one of the most cited and downloaded papers; includes an interview by Wiley, highlighting impact in the field of soft robotics."
+
+- title: "IEEE Transactions on Biomedical Engineering Featured Article: Pneumatic Non-Equibiaxial Cell Stretching Device With Live-Cell Imaging"
+  time: "2023"
+  date: "2023-01-01"
+  description: "Featured article in a leading biomedical engineering journal, showcasing innovative research in cell stretching technology with live imaging capabilities."
+
+- title: "Toyota Boshoku Scholarship, $1500"
+  time: "2019"
+  date: "2019-01-01"
+  description: "Scholarship supporting students in mechanical engineering or related fields, promoting academic excellence and industry collaboration."
+
+- title: "National Graduation Project Competition, The First Award, Rank 5/166"
+  time: "2017"
+  date: "2017-01-01"
+  description: "First Award in a national competition for graduation projects, achieving Rank 5 out of 166 entries, demonstrating outstanding innovation and execution."
+
+- title: "Special Chinese National Scholarship, Top 1% in National Scholarship"
+  time: "2015"
+  date: "2015-01-01"
+  description: "Special recognition in the top 1% of National Scholarship recipients; featured in People’s Daily, honoring exceptional academic performance."
+
+- title: "Chinese National Scholarship, $2000"
+  time: "2014-2016"
+  date: "2014-01-01"
+  description: "Annual scholarship of $2000 awarded over three years, supporting outstanding students in higher education."
+
+- title: "The 11th National University Students Mechanics Competition, The First Award, Rank 1/4000"
+  time: "2014"
+  date: "2014-01-01"
+  description: "First Award in a nationwide mechanics competition for university students, achieving the top rank out of 4000 participants."
+
+- title: "Baogang Outstanding Student Scholarship, $3000"
+  time: "2014"
+  date: "2014-01-01"
+  description: "Scholarship recognizing outstanding academic achievements and potential, awarded by a leading Chinese steel corporation's foundation."
